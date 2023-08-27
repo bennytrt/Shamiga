@@ -3,5 +3,5 @@ Shamiga! What Is Shamiga? Well, Shamiga (short for Sharp Amiga) Is An Amiga Emul
 
 
 - current progress -
-adding frame buffering
-finishing Execute Instructions
+adding frame buffering,
+finishing Execute Instructions.
