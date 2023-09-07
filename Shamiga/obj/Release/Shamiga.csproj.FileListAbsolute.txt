@@ -1,0 +1,9 @@
+C:\Users\nigga\source\repos\Shamiga\Shamiga\bin\Release\Shamiga.exe.config
+C:\Users\nigga\source\repos\Shamiga\Shamiga\bin\Release\Shamiga.exe
+C:\Users\nigga\source\repos\Shamiga\Shamiga\bin\Release\Shamiga.pdb
+C:\Users\nigga\source\repos\Shamiga\Shamiga\obj\Release\Shamiga.csproj.AssemblyReference.cache
+C:\Users\nigga\source\repos\Shamiga\Shamiga\obj\Release\Shamiga.csproj.CoreCompileInputs.cache
+C:\Users\nigga\source\repos\Shamiga\Shamiga\obj\Release\Shamiga.exe
+C:\Users\nigga\source\repos\Shamiga\Shamiga\obj\Release\Shamiga.pdb
+C:\Users\nigga\source\repos\Shamiga\Shamiga\obj\Release\Shamiga.Form1.resources
+C:\Users\nigga\source\repos\Shamiga\Shamiga\obj\Release\Shamiga.csproj.GenerateResource.cache
